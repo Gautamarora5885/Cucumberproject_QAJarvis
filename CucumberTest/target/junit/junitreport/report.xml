@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.124" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="feature is to test PROFILE functionality of application" name="valid user is able to change TIMEZONE in profile section - Example #1.1" time="0.008">
+<failure/>
+<system-out><![CDATA[
+Given Browser is open (chrome)..............................................undefined
+And Usser enter  garora and Bebo@123........................................skipped
+And Usser click on login button.............................................skipped
+And Usser is navigated to the home page.....................................skipped
+And Usser clicks on Profile.................................................skipped
+And Usser clicks on View_Profile............................................skipped
+Then Usser clicks on Timezone...............................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
